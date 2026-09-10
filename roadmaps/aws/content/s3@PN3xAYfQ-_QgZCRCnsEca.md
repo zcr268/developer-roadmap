@@ -5,3 +5,4 @@ Amazon S3 (Simple Storage Service) is an object storage service offered by Amazo
 Visit the following resources to learn more:
 
 - [@official@S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [@course@Public S3 Buckets: Hands-on Exercise](https://ransomleak.com/exercises/public-storage-buckets/)

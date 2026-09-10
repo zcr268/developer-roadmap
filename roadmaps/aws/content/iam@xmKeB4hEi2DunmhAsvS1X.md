@@ -5,3 +5,4 @@ IAM, or Identity and Access Management, in AWS is a service that enables you to 
 Visit the following resources to learn more:
 
 - [@official@IAM - User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- [@course@Over-Permissive IAM: Hands-on Privilege Escalation Exercise](https://ransomleak.com/exercises/over-permissive-iam/)

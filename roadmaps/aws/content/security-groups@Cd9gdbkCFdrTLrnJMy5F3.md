@@ -5,3 +5,4 @@ Security Groups in AWS act as a virtual firewall for your instance to control in
 Visit the following resources to learn more:
 
 - [@official@Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
+- [@course@Cloud Network Exposure: Hands-on Security Group Exercise](https://ransomleak.com/exercises/cloud-network-exposure/)
