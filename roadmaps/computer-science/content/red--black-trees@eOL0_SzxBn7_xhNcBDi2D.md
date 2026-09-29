@@ -1,5 +1,5 @@
 # Red / Black Trees
- 
+
 A red-black tree is a self-balancing binary search tree where each node is colored red or black, and a set of coloring rules ensures the tree never becomes more than roughly twice as tall as the shortest possible balanced tree. It requires fewer rotations on average than an AVL tree, which makes it a common choice for implementing ordered maps and sets in standard libraries.
 
 Visit the following resources to learn more:

@@ -4,5 +4,6 @@ Merge sort is a divide and conquer algorithm. It divides the input array into tw
 
 Visit the following resources to learn more:
 
+- [@article@Merge Sort in Python: Step-by-Step Guide + Code](https://roadmap.sh/python/merge-sort)
 - [@article@Merge Sort Algorithm](https://www.programiz.com/dsa/merge-sort)
 - [@video@Merge Sort in 3 Minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)

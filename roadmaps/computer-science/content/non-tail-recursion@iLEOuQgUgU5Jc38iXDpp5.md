@@ -1,5 +1,5 @@
 # Non-Tail Recursion
- 
+
 Non-tail recursion is a form of recursion where work remains to be done after the recursive call returns, such as combining the result with something else. Each call must keep its stack frame until the recursive call underneath it finishes, which means the call stack grows with each level of recursion and cannot be optimized away like tail recursion.
 
 Visit the following resources to learn more:
