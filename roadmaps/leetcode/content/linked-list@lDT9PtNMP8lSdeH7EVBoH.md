@@ -4,6 +4,7 @@ Linked list problems test your ability to manipulate pointers directly, without 
 
 Visit the following resources to learn more:
 
+- [@article@Linked Lists vs Python Lists: When to Use Each](https://roadmap.sh/python/linked-list)
 - [@article@DSA Linked Lists](https://www.w3schools.com/dsa/dsa_theory_linkedlists.php)
 - [@article@Understanding Linked Lists: A Beginner’s Guide](https://medium.com/@ogundipe.eniola/understanding-linked-lists-a-beginners-guide-a7ca6aa6ee04)
 - [@video@Learn Linked Lists in 13 minutes 🔗](https://www.youtube.com/watch?v=N6dOwBde7-M)

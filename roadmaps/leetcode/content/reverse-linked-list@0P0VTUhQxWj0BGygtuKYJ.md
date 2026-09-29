@@ -5,5 +5,6 @@ Given the head of a linked list, reverse it in place and return the new head. Yo
 Visit the following resources to learn more:
 
 - [@article@Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [@article@Linked Lists vs Python Lists: When to Use Each](https://roadmap.sh/python/linked-list)
 - [@video@Reverse Linked List - Leetcode 206 - Linked Lists (Python)](https://www.youtube.com/watch?v=KRxeMng7fBU)
 - [@video@LeetCode - Reverse Linked List Solution](https://www.youtube.com/watch?v=NhapasNIKuQ)
