@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Sorting Algorithms in Python](https://realpython.com/sorting-algorithms-python/)
 - [@article@Python - Sorting Algorithms](https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm)
+- [@article@Merge Sort in Python: Step-by-Step Guide + Code](https://roadmap.sh/python/merge-sort)
