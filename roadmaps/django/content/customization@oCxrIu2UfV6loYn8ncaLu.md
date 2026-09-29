@@ -5,6 +5,5 @@ Middleware in Django is a framework of hooks into Django's request/response proc
 Visit the following resources to learn more:
 
 - [@article@Understanding Django Middleware: How to Create Custom Middleware](https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3)
-- [@article@A Comprehensive Guide to Django Middleware](https://www.datree.io/resources/guide-to-django-middleware#anchor5)
 - [@video@Django Custom Middleware - Tutorial With Examples](https://www.youtube.com/watch?v=ELOgWKQpxB8)
 - [@video@Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware](https://www.youtube.com/watch?v=--ddZc39wVQ)

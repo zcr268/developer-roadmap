@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@official@The Django admin site](https://docs.djangoproject.com/en/6.0/ref/contrib/admin/)
 - [@official@django-admin and manage.py](https://docs.djangoproject.com/en/6.0/ref/django-admin/)
 - [@article@Django Tutorial Part 4: Django admin site](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Admin_site)
-- [@article@How to Set Up A Django Admin Site](https://www.freecodecamp.org/news/how-to-set-up-a-django-admin-site/)
-- [@video@Python Django Admin tutorial](https://www.youtube.com/watch?v=4tiSmL4JmS0)
 - [@video@Learn Django - Admin](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO)

@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Templates](https://docs.djangoproject.com/en/6.0/topics/templates/)
 - [@article@The Ultimate Guide to Django Templates](https://blog.jetbrains.com/pycharm/2025/02/the-ultimate-guide-to-django-templates/)
 - [@article@Django Templates](https://www.w3schools.com/django/django_templates.php)
-- [@video@Python Django Tutorial: Full-Featured Web App Part 3 - Templates](https://www.youtube.com/watch?v=qDwdMDQ8oX4)
 - [@video@Django Tutorial - Templates & Custom HTML](https://www.youtube.com/watch?v=b0CgA_Ap_Mc)

@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Understanding Django URL patterns](https://www.hostinger.com/my/tutorials/django-url-patterns)
 - [@article@How Django URLs work with Regular Expressions](https://www.codingforentrepreneurs.com/blog/how-django-urls-work-with-regular-expressions)
 - [@video@How Django URLs work with Regular Expressions](https://www.youtube.com/watch?v=8rExil_EWtk)
-- [@video@Learning Django - How to use url mapping with regexp (regular expression) in Django](https://www.youtube.com/watch?v=5zJ3LPWlfqU)

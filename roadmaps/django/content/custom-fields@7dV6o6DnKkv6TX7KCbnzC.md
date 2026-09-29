@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@How to create custom model fields](https://docs.djangoproject.com/en/6.0/howto/custom-model-fields/)
 - [@article@Django: using custom classes for model fields](https://medium.com/@luccascorrea/django-using-custom-classes-for-model-fields-38e58914ba5c)
-- [@article@How to Create Custom Model Fields in Django [2024]](https://www.horilla.com/blogs/how-to-create-custom-model-fields-in-django/)
+- [@article@How to Create Custom Model Fields in Django \[2024\]](https://www.horilla.com/blogs/how-to-create-custom-model-fields-in-django/)
 - [@video@Django ORM - Creating a Custom field Subclass](https://www.youtube.com/watch?v=b10NxZ7JEjE)
-- [@video@Django ORM - Introducing Custom Model Fields](https://www.youtube.com/watch?v=pJXKTcYo3ls)

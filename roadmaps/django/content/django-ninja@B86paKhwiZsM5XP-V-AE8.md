@@ -4,7 +4,6 @@ Django Ninja is a web framework for building APIs with Django and Python 3.7+ wi
 
 Visit the following resources to learn more:
 
-- [@official@Django Ninja](https://django-ninja.dev/)
 - [@official@First Steps](https://django-ninja.dev/tutorial/)
 - [@opensource@django-ninja](https://github.com/vitalik/django-ninja)
 - [@video@Django-Ninja APIs - Modern API Development in Django](https://www.youtube.com/watch?v=XqkqbsdtoMI)

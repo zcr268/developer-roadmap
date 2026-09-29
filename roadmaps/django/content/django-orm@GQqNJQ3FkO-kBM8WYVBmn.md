@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@An introduction to the Django ORM](https://opensource.com/article/17/11/django-orm)
 - [@article@Understanding Django ORM (Object-Relational Mapping)](https://medium.com/django-unleashed/understanding-django-orm-object-relational-mapping-16f3c29db7d7)
 - [@video@Django ORM Deep Dive](https://www.youtube.com/watch?v=EsBqIZmR2Uc&list=PL-2EBeDYMIbQXKsyNweppuFptuogJe2L-)
-- [@video@DJ101 | Django Database ORM Mastery Course](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cayYycbeBdxHUFrzTqrNE7Pe)

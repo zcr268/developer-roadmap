@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@roadmap@Visit the Dedicated PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
 - [@official@PostgreSQL Notes](https://docs.djangoproject.com/en/6.0/ref/databases/#postgresql-notes)
 - [@article@Complete Tutorial: Set-up PostgreSQL Database with Django Application](https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384)
-- [@article@Connect to Database](https://www.w3schools.com/django/django_db_connect.php)
 - [@video@Django PostgreSQL | Django PostgreSQL Database Setup](https://www.youtube.com/watch?v=FlzfWgVZuyY)
-- [@video@Easiest Way To Connect Django To A Postgres Database](https://www.youtube.com/watch?v=HEV1PWycOuQ)

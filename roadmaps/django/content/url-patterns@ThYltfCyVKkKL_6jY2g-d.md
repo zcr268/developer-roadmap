@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@URL dispatcher](https://docs.djangoproject.com/en/6.0/topics/http/urls/)
 - [@article@Django URLs](https://tutorial.djangogirls.org/en/django_urls/)
 - [@article@Understanding Django URL patterns](https://www.hostinger.com/in/tutorials/django-url-patterns)
-- [@video@Django Full Course - 9.0 - URL dispatcher. Basics, converters, extra parameters, include](https://www.youtube.com/watch?v=BU12twkMgEg)
 - [@video@Django Tutorial for Beginners 3 - URL dispatcher | Requests and Responses](https://www.youtube.com/watch?v=Y82NaZ2VZjE)

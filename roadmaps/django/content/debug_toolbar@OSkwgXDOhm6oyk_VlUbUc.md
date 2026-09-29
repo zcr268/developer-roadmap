@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@opensource@debug_toolbar](https://github.com/django-commons/django-debug-toolbar)
 - [@article@Django Debug Toolbar: Configuration and Overview](https://medium.com/@hmbarotov/django-debug-toolbar-configuration-and-overview-97dbe8279279)
 - [@video@Django Debug Toolbar - A Tool to Help You With Your Django Projects](https://www.youtube.com/watch?v=H-vLUoXKKIs)
-- [@video@Mastering Django Debug Toolbar: Efficient Debugging and Optimization Techniques](https://www.youtube.com/watch?v=c5riXBYFxLk)

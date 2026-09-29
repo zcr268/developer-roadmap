@@ -7,6 +7,4 @@ Visit the following resources to learn more:
 - [@official@Serializers](https://www.django-rest-framework.org/api-guide/serializers/)
 - [@official@Tutorial 1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
 - [@official@Serializer relations](https://www.django-rest-framework.org/api-guide/relations/)
-- [@article@Effectively Using Django REST Framework Serializers](https://testdriven.io/blog/drf-serializers/)
-- [@video@Django Rest Framework | Serializers & CRUD](https://www.youtube.com/watch?v=TmsD8QExZ84)
 - [@video@Django REST Framework- Nested Serializers, SerializerMethodField and Serializer Relations](https://www.youtube.com/watch?v=KfSYadIFHgY)

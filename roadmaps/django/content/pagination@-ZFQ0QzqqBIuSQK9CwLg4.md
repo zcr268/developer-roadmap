@@ -7,5 +7,4 @@ Visit the following resources to learn more:
 - [@official@Pagination](https://docs.djangoproject.com/en/6.0/topics/pagination/)
 - [@official@Paginator](https://docs.djangoproject.com/en/6.0/ref/paginator/)
 - [@article@Pagination in Django](https://testdriven.io/blog/django-pagination/)
-- [@article@Django Pagination Tutorial with Example](https://medium.com/django-unleashed/django-pagination-tutorial-with-example-745cefd54eb3)
 - [@video@Pagination For Django - Django Wednesdays #18](https://www.youtube.com/watch?v=N-PB-HMFmdo)

@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@The Django admin site](https://docs.djangoproject.com/en/6.0/ref/contrib/admin/#custom-template-options)
 - [@article@Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/)
-- [@article@Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/)
 - [@article@Customizing the Django Admin](https://earthly.dev/blog/customize-django-admin-site/)
 - [@video@Learn Django - Admin](https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO)

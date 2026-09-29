@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Beginner’s Django Guide: Setting Up Projects with MySQL](https://medium.com/@nikhilrpandey15/beginners-guide-to-django-setting-up-projects-with-mysql-03ff8cb43a44)
 - [@article@Django-MySQL Documentation](https://django-mysql.readthedocs.io/en/latest/)
 - [@video@How to Connect MySQL database with Django Project | Beginners Tutorial](https://www.youtube.com/watch?v=5g_xIwxLSJk)
-- [@video@How to Create a Django MySQL Database with Django Models](https://www.youtube.com/watch?v=IiUYyZo2gTk)

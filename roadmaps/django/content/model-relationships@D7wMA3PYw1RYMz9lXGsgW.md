@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Examples of model relationship API usage](https://docs.djangoproject.com/en/6.0/topics/db/examples/)
 - [@article@How to Define Relationships Between Django Models](https://www.freecodecamp.org/news/django-model-relationships/)
 - [@video@Understanding Django Model Relationships](http://youtube.com/watch?v=2KqhBkMv7aM)
-- [@video@Database Relationships | One To Many & Many to Many | Django (3.0) Crash Course Tutorials (pt 6)](https://www.youtube.com/watch?v=wIPHER2UBB4)

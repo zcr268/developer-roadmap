@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Tutorial 6: ViewSets & Routers](https://www.django-rest-framework.org/tutorial/6-viewsets-and-routers/)
 - [@article@Django REST Framework Views - ViewSets](https://testdriven.io/blog/drf-views-part-3/)
 - [@video@Viewsets & Routers in Django REST Framework](https://www.youtube.com/watch?v=4MrB4IvW6Ow)
-- [@video@Django REST Framework - Generic Views | ListAPIView & RetrieveAPIView](https://www.youtube.com/watch?v=vExjSChWPWg)

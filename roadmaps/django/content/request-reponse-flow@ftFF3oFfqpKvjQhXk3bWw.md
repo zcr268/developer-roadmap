@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Django Request-Response Cycle?](https://medium.com/@developerstacks/django-request-response-cycle-7165167f54c5)
 - [@article@Django Request Life Cycle Explained](https://dev.to/nilebits/django-request-life-cycle-explained-ci6)
 - [@video@Python Django Course | Understanding the Django Request Response Cycle](https://www.youtube.com/watch?v=9X83BZ1cF7o)
-- [@video@09 - Django Request Response Cycle | Official Django Polls Companion Videos](https://www.youtube.com/watch?v=TRZtGJP-BTc)

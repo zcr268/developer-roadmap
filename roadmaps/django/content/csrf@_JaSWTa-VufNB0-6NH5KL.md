@@ -6,6 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Cross Site Request Forgery protection](https://docs.djangoproject.com/en/6.0/ref/csrf/)
 - [@official@How to use Django’s CSRF protection](https://docs.djangoproject.com/en/6.0/howto/csrf/)
-- [@article@Django CSRF Protection Guide: Examples and How to Enable](https://www.stackhawk.com/blog/django-csrf-protection-guide/)
 - [@video@What Is CSRF Token In Django and Why Is It Used?](https://www.youtube.com/watch?v=iJmezMBJqEs)
 - [@video@Django - AJAX Requests, HTMX & CSRF Tokens](https://www.youtube.com/watch?v=lc1sOvRaFpg)
