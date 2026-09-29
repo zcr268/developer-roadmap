@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Visit Dedicated C++ Roadmap](https://roadmap.sh/cpp)
 - [@article@Learn Cpp](https://learncpp.com/)
 - [@article@C++ Reference](https://en.cppreference.com/)
-- [@feed@Explore top posts about C++](https://app.daily.dev/tags/c++?ref=roadmapsh)

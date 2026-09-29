@@ -4,4 +4,5 @@ Divide and conquer is a powerful algorithm design technique that solves a proble
 
 Visit the following resources to learn more:
 
+- [@article@Merge Sort in Python: Step-by-Step Guide + Code](https://roadmap.sh/python/merge-sort)
 - [@video@Divide & Conquer Algorithm In 3 Minutes](https://www.youtube.com/watch?v=YOh6hBtX5l0)

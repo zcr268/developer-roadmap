@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Java Website](https://www.java.com/)
 - [@video@Java Crash Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [@video@Complete Java course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
-- [@feed@Explore top posts about Java](https://app.daily.dev/tags/java?ref=roadmapsh)

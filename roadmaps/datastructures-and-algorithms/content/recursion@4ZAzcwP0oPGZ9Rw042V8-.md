@@ -5,3 +5,4 @@ Recursion is a technique where a function calls itself with a smaller version of
 Visit the following resources to learn more:
 
 - [@video@Recursion in 100 Seconds](https://www.youtube.com/watch?v=rf60MejMz3E)
+- [@article@Merge Sort in Python: Step-by-Step Guide + Code](https://roadmap.sh/python/merge-sort)
