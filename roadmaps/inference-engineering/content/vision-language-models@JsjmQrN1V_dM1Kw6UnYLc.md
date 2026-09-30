@@ -1,0 +1,3 @@
+# Vision Language Models (VLMs)
+ 
+VLMs combine a large language model with a small vision encoder that converts input images or video into a sequence of visual tokens. A high-resolution image typically adds about 1,000 tokens to the input sequence. All LLM inference optimization techniques apply to VLMs, but longer sequences make quantization, prefix caching, and disaggregation especially important.

@@ -1,0 +1,3 @@
+# Arithmetic Intensity
+
+Arithmetic intensity is a property of an algorithm: the number of floating-point operations performed per byte of memory read or written. A large matrix multiplication has high arithmetic intensity because the same weights participate in many operations per load; a decode forward pass has low arithmetic intensity because each weight is loaded from VRAM and used once per token. Comparing a workload's arithmetic intensity against the GPU's ops:byte ratio is the fastest way to diagnose whether adding compute or adding bandwidth would help.

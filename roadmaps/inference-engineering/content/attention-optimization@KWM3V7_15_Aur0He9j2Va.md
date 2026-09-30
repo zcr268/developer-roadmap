@@ -1,0 +1,3 @@
+# Attention Optimization
+
+Attention optimization refers to techniques designed to improve the computational efficiency and memory usage of the attention mechanism within transformer models. Because standard attention scales quadratically with input sequence length, these optimizations aim to reduce computation and memory overhead. By streamlining how tokens interact with one another, these methods allow models to process longer inputs faster and run on hardware with less available memory.

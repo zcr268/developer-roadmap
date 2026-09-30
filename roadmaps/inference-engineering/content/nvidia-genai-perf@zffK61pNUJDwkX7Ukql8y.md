@@ -1,0 +1,3 @@
+# NVIDIA GenAI-Perf
+
+GenAI-Perf is NVIDIA's inference benchmarking tool, designed to work across TensorRT-LLM, Triton Inference Server, and OpenAI-compatible endpoints. It generates synthetic workloads with configurable sequence length distributions and concurrency levels and outputs standard latency and throughput metrics including TTFT, ITL, and TPS percentiles.

@@ -1,0 +1,3 @@
+# Writing Custom Kernels
+ 
+Custom kernels are written when existing libraries do not fully utilize a GPU's capabilities for a specific operation or architecture. Most production kernels are written in C++ using CUTLASS and CuTe for GEMM-style operations and FlashInfer for attention variants; Triton offers a Python-based alternative with a lower barrier to entry. Writing an effective kernel requires understanding the target GPU's memory hierarchy, SM occupancy, and Tensor Core instruction set — skills that sit at the intersection of software and hardware.

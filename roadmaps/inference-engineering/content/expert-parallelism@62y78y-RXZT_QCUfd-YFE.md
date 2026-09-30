@@ -1,0 +1,3 @@
+# Expert Parallelism
+ 
+Expert Parallelism distributes MoE experts across GPUs so each GPU hosts multiple complete experts. Tokens are routed to the GPU holding their activated experts, and each expert runs independently within a single GPU without splitting across multiple. EP has lower inter-GPU communication overhead than Tensor Parallelism and scales well to multi-node deployments via InfiniBand.

@@ -1,0 +1,3 @@
+# Quantization-Aware Training
+
+Quantization-aware training computes scale factors and optimizes model weights jointly during training so the final model is already calibrated for the target low-precision format. This produces better quality at low precision than post-training quantization but requires retraining the model from scratch or from a checkpoint. Some labs release models trained this way, such as GPT-OSS in MXFP4.

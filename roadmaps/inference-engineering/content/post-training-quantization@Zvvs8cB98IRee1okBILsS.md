@@ -1,0 +1,3 @@
+Post-Training Quantization
+
+Post-training quantization converts finished model weights to lower precision after training is complete, using a small calibration dataset to compute per-layer scale factors that minimize the gap between quantized and original outputs. It is the standard approach for most deployments since it requires no retraining and can be applied to any existing model. The leading tool is NVIDIA ModelOpt, which exports quantized models in formats compatible with all major inference engines.

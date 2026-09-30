@@ -1,0 +1,3 @@
+# Autoscaling
+ 
+Autoscaling dynamically adjusts the number of active model replicas to match incoming traffic, maintaining latency SLAs while minimizing idle GPU spend. Kubernetes is the standard orchestration layer, scaling replicas within a cluster based on traffic signals and utilization metrics. Key configuration parameters are min replicas, max replicas, the autoscaling window, the scale-down delay, and the concurrency target per replica.

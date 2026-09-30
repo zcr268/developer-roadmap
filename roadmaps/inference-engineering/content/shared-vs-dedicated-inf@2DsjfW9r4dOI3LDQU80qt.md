@@ -1,0 +1,3 @@
+# Shared vs. Dedicated Inference
+ 
+Shared inference means sending requests to a public API and paying per token. Dedicated inference means renting GPUs and running your own model server, paying per GPU-hour. Shared inference is simpler and has no cold start, but dedicated inference offers control over latency, cost at scale, model customization, and uptime. Most products start shared and move to dedicated as traffic grows.

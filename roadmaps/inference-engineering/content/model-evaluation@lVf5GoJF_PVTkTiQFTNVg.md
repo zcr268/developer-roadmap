@@ -1,0 +1,3 @@
+# Model Evaluation
+ 
+Model evaluation, or evals, is the practice of systematically measuring model quality for a specific task or domain. Standard intelligence benchmarks like MMLU measure general capabilities but can be gamed; product-specific evals that test real use cases provide more reliable signal. High-confidence evals are a prerequisite before investing in inference optimization, ensuring the model is actually useful before making it fast.

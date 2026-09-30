@@ -1,0 +1,3 @@
+# Encoder-Decoder Architectures
+ 
+Neural networks can be organized as encoder-only, decoder-only, or encoder-decoder models. Modern LLMs are decoder-only. Encoder-only models like BERT are used for text embeddings and classification. Encoder-decoder models like Whisper use an encoder to process input into an internal representation and a decoder to generate output tokens autoregressively. Each architecture has different inference characteristics and tooling requirements.

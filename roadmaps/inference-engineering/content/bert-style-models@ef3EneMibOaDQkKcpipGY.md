@@ -1,0 +1,3 @@
+# BERT-style Models
+
+BERT-style encoder-only models are the traditional architecture for text embeddings, producing a fixed-size vector by pooling the final hidden states of a bidirectional transformer. They are compact, fast, and well-suited for high-throughput indexing workloads where embedding quality is sufficient for the task. Models like BGE-small and all-MiniLM run efficiently on CPU or fractional GPU instances, making them the lowest-cost embedding option.

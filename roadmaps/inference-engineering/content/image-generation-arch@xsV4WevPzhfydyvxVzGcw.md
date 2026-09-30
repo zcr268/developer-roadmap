@@ -1,0 +1,3 @@
+# Image Generation Architecture
+ 
+Image generation models are pipelines of multiple components: a text encoder that converts the prompt into conditioning, a denoising model that iteratively refines a latent representation from noise into an image, and a variational autoencoder that converts the final latent to pixels. The denoising model is the largest and most compute-intensive component and runs up to 100 forward passes per image generation.

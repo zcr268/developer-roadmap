@@ -1,0 +1,3 @@
+# LLM-based Models
+
+LLM-based embedding models use a decoder-only transformer backbone, typically between one and eight billion parameters, to produce higher-quality semantic representations than BERT-style models. They apply a pooling operation to the final layer hidden states and are trained with contrastive objectives on large-scale retrieval datasets. The quality advantage is most pronounced on complex or cross-lingual retrieval tasks; the cost is higher compute per embedding and the need for GPU inference rather than CPU.

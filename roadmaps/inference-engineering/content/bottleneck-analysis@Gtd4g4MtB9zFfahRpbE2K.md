@@ -1,0 +1,3 @@
+# Bottleneck Analysis
+
+Bottleneck analysis identifies whether a given inference workload is limited by compute or by memory bandwidth, which determines which optimizations will actually improve performance. The core tool is the ops:byte ratio: comparing a GPU's peak FLOPS against its peak memory bandwidth reveals the hardware's balance point, and comparing a model operation's arithmetic intensity against that balance point reveals whether it is compute-bound or memory-bound. LLM prefill and image generation are compute-bound; LLM decode is memory-bound.

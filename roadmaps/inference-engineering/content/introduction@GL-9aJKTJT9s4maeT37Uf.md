@@ -1,0 +1,3 @@
+# Inference Engineer
+ 
+Inference engineering is the practice of making generative AI models faster, less expensive, and more reliable to serve in production. It spans the full stack from CUDA kernels and GPU architecture to Kubernetes autoscaling and multi-cloud capacity management. The field emerged alongside the explosion of open models and the shift from pay-per-token APIs to dedicated deployments, where engineers own latency, throughput, cost, and uptime directly.

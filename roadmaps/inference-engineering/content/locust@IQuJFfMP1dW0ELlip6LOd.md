@@ -1,0 +1,3 @@
+# Locust
+
+Locust is a general-purpose open-source load testing framework written in Python. In inference benchmarking it is used to simulate realistic user traffic patterns — including request arrival rates, concurrency ramps, and burst scenarios — that synthetic tools do not capture. It is particularly useful for end-to-end load testing that includes network overhead, queuing, and autoscaling behavior rather than raw model server performance alone.
